@@ -493,6 +493,7 @@ taha
 - [IyiOluwa Adaramola](https://github.com/adaraiyi18)
 - [Abdul Waheed](https://github.com/abdulwaheed76)
 chiu
+-[Jayson Lee](https://github.com/jayson147)
 - [Mohamed Ali](https://github.com/devbn3li)
 - [Anand Satheesh](https://github.com/anands282)
 - [Beni Rossman] (https://github.com/beniandthe)
